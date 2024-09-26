@@ -48,3 +48,5 @@ The final rate applied at the end of the trip is given a numerical value in the 
 The pickup and dropoff locations are indicated by Taxi Zones.
 In the `maps/` folder of this section of the repository one can see the zones across the five boroughs.
 The file `taxi_zone_lookup.csv` associates the numerical zones with neighborhood names.
+The file `nyc-taxi-zones.geojson` is a GeoJSON file that encodes the zones for geospatial analysis of the taxi data.
+
